@@ -1,0 +1,13 @@
+# Diretórios de build
+cmake-build-*/
+build/
+
+# Arquivos do CLion
+.idea/
+
+# Binários
+*.out
+*.exe
+
+# Dados locais
+data/*.csv
